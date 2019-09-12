@@ -1,11 +1,11 @@
-0-current_working_directory: Script that writes the absolute path name of the directory
-1-listit: script that displays the content of the directory..
+0-current_working_directory: Script that writes the absolute path name of the directory.	
+1-listit: script that displays the content of the directory.
 2-bring_me_home: script that changes the working directory to the user's home.
-3-listfiles: script that list files in a long format.
-4-listmorefiles: script that lists files in the directory, including hidden files using the long format.
+3-listfiles: script that list files in a long format.	   
+4-listmorefiles: script that lists files in the directory, including hidden files using the long format.	
 5-listfilesdigitonly: script that lists files in a long format, with users and group ID's in numbers.
-6-firstdirectory: script that creates a directory named holberton in the tmp directory.
-7-movethatfile: script that moves the betty file in tmp to tmp/holberton
+6-firstdirectory: script that creates a directory named holberton in the tmp directory.	  
+7-movethatfile: script that moves the betty file in tmp to tmp/holberton. 
 8-firstdelete: script that removes the file betty inside tmp/holberton.
 9-firstdirdeletion: script that removes the holberton directory.
 10-back: script that changes the working directory to the previous one.
