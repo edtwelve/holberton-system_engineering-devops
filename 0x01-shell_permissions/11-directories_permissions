@@ -1,2 +1,2 @@
-BB#!/bin/bash
+#!/bin/bash
 chmod ugo+x $(find /. -type d)
